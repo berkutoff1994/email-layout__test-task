@@ -11,7 +11,6 @@
 - Верстка по макету https://www.figma.com/file/rIjMKOF8MU3VE3wGXmjIHB/%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE?node-id=0%3A1&t=3HsMAidRN433RaqQ-0.
 - Размещение изображений на сервисе <a href='https://ibb.co/'>ibb.co</a>
 
-- Протестировать корректность работы можно с помощью сервиса <a href='https://putsmail.com/'>putsmail.com</a>
-* Для этого авторизуйтесь на сервисе, отправьте в теле письма html разметку из файла index.html
+- Протестировать корректность работы можно с помощью сервиса <a href='https://putsmail.com/'>putsmail.com</a>. Для этого авторизуйтесь на сервисе, отправьте в теле письма html разметку из файла index.html
 
 Для тестирования работы приложения в браузере перейдите по <a href='https://e-pos-pi.vercel.app/viewing'>ссылке</a>  
